@@ -12,5 +12,6 @@ Project Structure:
 * style.css: The CSS file responsible for styling the player's appearance.
 * script.js: The JavaScript file that handles the player's functionality and interactions.
 * assets/songs/: A folder containing your MP3 music files.
+  
 ![Screenshot (28)](https://github.com/user-attachments/assets/0e8c4e29-3117-47ff-a959-f8231a59eebe)
 
