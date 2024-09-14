@@ -1,4 +1,4 @@
-* Music Player - HTML, CSS, and JavaScript
+Music Player - HTML, CSS, and JavaScript
   
 This repository contains a basic music player built with HTML, CSS, and JavaScript. It's a good starting point for anyone wanting to learn how to create a music player from scratch.
 
